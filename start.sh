@@ -1,0 +1,1 @@
+google-chrome $(vvsso http://127.0.0.1:8000/admin/token_login 11 admin 1)
